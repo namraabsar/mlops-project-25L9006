@@ -4,13 +4,14 @@
 This project implements a machine learning pipeline for house price prediction, with version control using Git and GitHub.
 
 ## Project Structure
+```
 mlops-project-25L9006/
-├── data/ # Raw dataset (ignored in git)
-├── src/ # Training scripts
-├── model/ # Saved trained model (ignored in git)
+├── data/           # Raw dataset (ignored in git)
+├── src/            # Training scripts
+├── model/          # Saved trained model (ignored in git)
 ├── requirements.txt
 └── README.md
-
+```
 
 ## Setup Instructions
 
